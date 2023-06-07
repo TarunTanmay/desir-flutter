@@ -52,10 +52,10 @@ extension FontStyles on FontStyle{
         return FontWeight.bold;
 
       case FontStyle.semi_bold:
-        return FontWeight.w800;
+        return FontWeight.w700;
 
       case FontStyle.medium:
-        return FontWeight.w500;
+        return FontWeight.w600;
 
       case FontStyle.extra_bold:
         return FontWeight.w900;
