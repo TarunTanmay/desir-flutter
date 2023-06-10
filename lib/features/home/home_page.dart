@@ -60,7 +60,7 @@ class HomePage extends StatelessWidget {
                       color: const Color.fromRGBO(242, 242, 242, 1),
                       borderRadius: BorderRadius.circular(10)
                   ),
-                  child: const Icon(Icons.notifications_none, size: 24, color: Colors.grey),
+                  child: const Icon(Icons.favorite_outline_rounded, size: 24, color: Colors.grey),
                 ),
               ],
             ),
